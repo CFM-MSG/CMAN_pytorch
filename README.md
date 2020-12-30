@@ -113,4 +113,4 @@ We have also conducted a visual inspection experiment on the MVTec dataset, comp
 
 
 ## References
-This code following the basic structure from [Latent Space Autoregression for Novelty Detection](https://github.com/aimagelab/novelty-detection) and [memae-anomaly-detection](https://github.com/donggong1/memae-anomaly-detection).
+This code follows the basic structure from [Latent Space Autoregression for Novelty Detection](https://github.com/aimagelab/novelty-detection) and [memae-anomaly-detection](https://github.com/donggong1/memae-anomaly-detection).
